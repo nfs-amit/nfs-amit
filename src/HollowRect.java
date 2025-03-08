@@ -21,12 +21,12 @@ public class HollowRect {
 
 /*
 
-//output
+/
+/output
 *******
 *     *
 *     *
 *******
-
 
 
  */
